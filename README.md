@@ -1,6 +1,6 @@
-#Snake Game Hebi-san
+# Snake Game Hebi-san
 
-##Luật chơi
+## Luật chơi
 
 Cho 1 bảng 8x8 với bờ tường xung quanh.
 Hebi-san được spawn ở ô (1, 1). 
@@ -9,6 +9,6 @@ Bạn hãy điều khiển Hebi-san sao cho Hebi-san ăn được nhiều táo n
 
 Trò chơi kết thúc khi Hebi-san vượt qua bờ tường hoặc đi qua chính thân mình.
 
-##Điều khiển
+## Điều khiển
 
 Mũi tên lên, xuống, trái, phải.
