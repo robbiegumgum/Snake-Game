@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1680960640 source:c:\users\tran trung dzung\desktop\gameuet\game\snake\src\texturemanager.cpp
+	"TextureManager.h"
+	<SDL_image.h>
+	<string>
+
+1680960671 c:\users\tran trung dzung\desktop\gameuet\game\snake\include\texturemanager.h
+	<string>
+	<SDL.h>
+	<map>
+
+1681042154 source:c:\users\tran trung dzung\desktop\gameuet\game\snake\main.cpp
+	"SDL.h"
+	"geemu.h"
+
+1681042647 c:\users\tran trung dzung\desktop\gameuet\game\snake\include\geemu.h
+	"SDL.h"
+	"SDL_ttf.h"
+	<string>
+	<vector>
+
+1681044979 source:c:\users\tran trung dzung\desktop\gameuet\game\snake\src\geemu.cpp
+	"geemu.h"
+	"TextureManager.h"
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+
